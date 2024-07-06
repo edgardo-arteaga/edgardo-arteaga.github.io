@@ -649,7 +649,7 @@ body > footer .copyrights {
 }
 
 .site-title span {
-  color: #2eca7f;
+  color: #6f98e4;
 }
 
 .header.sticked .site-title {
@@ -724,7 +724,7 @@ body > footer .copyrights {
   width: 0;
   height: 2px;
   margin: 0 auto;
-  background-color: #2eca7f;
+  background-color: #5252539f;
   -webkit-transition: all 0.15s ease-in-out;
   -moz-transition: all 0.15s ease-in-out;
   -o-transition: all 0.15s ease-in-out;
@@ -788,7 +788,7 @@ body > footer .copyrights {
 }
 
 .block-title h3 span {
-  color: #2eca7f;
+  color: #6f98e4;
 }
 
 .custom-page-content .block {
@@ -809,7 +809,7 @@ body > footer .copyrights {
 }
 
 .custom-page-content .page-header.color-1 {
-  background-color: #2eca7f;
+  background-color: #6f98e4;
   background-image: url(../images/sp_main_bg.png);
   background-size: cover;
   -webkit-background-size: cover;
@@ -839,7 +839,7 @@ body > footer .copyrights {
 ======================================= */
 .start-page-content .page-header {
   position: relative;
-  background-color: #2eca7f;
+  background-color: #d5e5ec;
   padding: 50px;
   margin-bottom: 25px;
   background-image: url(../images/sp_main_bg.png);
@@ -853,7 +853,7 @@ body > footer .copyrights {
 .start-page-content .page-header .photo {
   max-width: 280px;
   margin-bottom: -75px;
-  border: 3px solid #fff;
+  border: 3px solid #e027d7;
   background-color: #fff;
   -webkit-box-shadow: 0px 3px 8px 0px rgba(0,0,0,0.1);
   -moz-box-shadow: 0px 3px 8px 0px rgba(0,0,0,0.1);
@@ -881,14 +881,14 @@ body > footer .copyrights {
 }
 
 .start-page-content .page-header .title-block h1 {
-  color: #fff;
-  font-size: 54px;
+  color: #030303;
+  font-size: 50px;
   font-weight: 700;
   margin: 30px 0 0;
 }
 
 .start-page-content .page-header .title-block .sp-subtitle {
-  color: #fff;
+  color: #c71b1b;
   font-size: 18px;
   margin: 0;
 }
